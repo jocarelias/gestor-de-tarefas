@@ -84,11 +84,11 @@ Frontend
     JavaScript puro - Sem frameworks
 
     Font Awesome - Ícones
-    🌐 Versão em Português
-📋 List-To-Do - Sistema de Gerenciamento de Tarefas
+     Versão em Português
+ List-To-Do - Sistema de Gerenciamento de Tarefas
 
 Uma aplicação moderna e completa para gerenciamento de tarefas com interface bonita e intuitiva. Construída com Node.js, PostgreSQL e JavaScript puro.
-🚀 Funcionalidades
+ Funcionalidades
 Gerenciamento de Usuários
 
     Registro e autenticação de usuários
@@ -146,7 +146,7 @@ Recursos de UI/UX
 
     Estados vazios com mensagens úteis
 
-🛠️ Pilha Tecnológica
+ Pilha Tecnológica
 Backend
 
     Node.js - Ambiente de execução
@@ -170,11 +170,11 @@ Frontend
     JavaScript puro - Sem frameworks
 
     Font Awesome - Ícones
-    🌐 Versão em Português
-📋 List-To-Do - Sistema de Gerenciamento de Tarefas
+     Versão em Português
+ List-To-Do - Sistema de Gerenciamento de Tarefas
 
 Uma aplicação moderna e completa para gerenciamento de tarefas com interface bonita e intuitiva. Construída com Node.js, PostgreSQL e JavaScript puro.
-🚀 Funcionalidades
+ Funcionalidades
 Gerenciamento de Usuários
 
     Registro e autenticação de usuários
@@ -232,7 +232,7 @@ Recursos de UI/UX
 
     Estados vazios com mensagens úteis
 
-🛠️ Pilha Tecnológica
+Pilha Tecnológica
 Backend
 
     Node.js - Ambiente de execução
@@ -257,7 +257,7 @@ Frontend
 
     Font Awesome - Ícones
 
-    💾 Esquema do Banco de Dados
+     Esquema do Banco de Dados
 Tabela de Usuários
 
     id (SERIAL PRIMARY KEY)
